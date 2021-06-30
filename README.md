@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Advait Trivedi</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Python Programming**
+- 🌱 **Forever Learning**
 
 - 📫 How to reach me :- **trivediadvait0@gmail.com**
 

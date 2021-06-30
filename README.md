@@ -42,8 +42,8 @@
 <div width="100vh">
 <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=advaittrivedi1122&show_icons=true&locale=en&layout=compact" alt="advaittrivedi1122" />
-<br><br>
+<br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=advaittrivedi1122&show_icons=true&locale=en" alt="advaittrivedi1122" />
-<br><br>
+<br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=advaittrivedi1122&" alt="advaittrivedi1122" />
 </div>

@@ -1,8 +1,3 @@
-<html>
-  <head>
-    <title></title>
-  </head>
-<body>
 <h1 align="center">Hi there 👋, I'm Advait Trivedi</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -10,8 +5,8 @@
 
 - 📫 How to reach me :- **trivediadvait0@gmail.com**
 
-<h3 align="center" style="background-color:white;">Connect with me:</h3>
-<p align="center" style="background-color:white;">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/trivedi_advait" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="trivedi_advait" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/advait-trivedi-9738b81b5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="advait trivedi" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/14365155/advait-trivedi?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="advait trivedi" height="40" width="40" /></a>
@@ -52,5 +47,3 @@
 <br>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=advaittrivedi1122&" alt="advaittrivedi1122" /></p>
 </div>
-</body>
-</html>

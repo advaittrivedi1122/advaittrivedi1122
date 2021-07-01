@@ -6,7 +6,7 @@
 - 📫 How to reach me :- **trivediadvait0@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
+<p align="center" style="background-color:white;">
 <a href="https://twitter.com/trivedi_advait" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="trivedi_advait" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/advait-trivedi-9738b81b5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="advait trivedi" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/14365155/advait-trivedi?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="advait trivedi" height="40" width="40" /></a>
@@ -39,11 +39,11 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> 
 </p>
 
-<div width="100vh">
+<div align="center">
 <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=advaittrivedi1122&show_icons=true&locale=en&layout=compact" alt="advaittrivedi1122" />
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=advaittrivedi1122&show_icons=true&locale=en&layout=compact" alt="advaittrivedi1122" /></p>
 <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=advaittrivedi1122&show_icons=true&locale=en" alt="advaittrivedi1122" />
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=advaittrivedi1122&show_icons=true&locale=en" alt="advaittrivedi1122" /></p>
 <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=advaittrivedi1122&" alt="advaittrivedi1122" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=advaittrivedi1122&" alt="advaittrivedi1122" /></p>
 </div>

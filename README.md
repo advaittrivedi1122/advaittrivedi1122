@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Advait Trivedi</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 **Forever Learning**
-
-- 📫 How to reach me :- **trivediadvait0@gmail.com**
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <!-- 
